@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     "classroom communication plans",
   ],
   icons: {
-    icon: "/TelexIcon.svg",
+    icon: "/favicon.ico", apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: "Zedu Pricing - Flexible Plans for Modern Learning Teams",

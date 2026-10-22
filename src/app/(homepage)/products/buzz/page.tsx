@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "interactive communication for students",
   ],
   icons: {
-    icon: "/TelexIcon.svg",
+    icon: "/favicon.ico", apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: "Zedu Buzz - Instant Voice Conversations for Learning Teams",

@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     "Zedu schools",
   ],
   icons: {
-    icon: "/TelexIcon.svg",
+    icon: "/favicon.ico", apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: "Zedu for Schools - Structured Communication for Classrooms",

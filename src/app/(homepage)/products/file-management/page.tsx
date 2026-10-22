@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     "university course files",
   ],
   icons: {
-    icon: "/TelexIcon.svg",
+    icon: "/favicon.ico", apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: "Zedu File Management - Organize and Share Learning Materials",
